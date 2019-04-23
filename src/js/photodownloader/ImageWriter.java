@@ -1,4 +1,4 @@
-package ru.crpt.catalog.pd;
+package js.photodownloader;
 
 import java.io.IOException;
 import java.io.InputStream;
